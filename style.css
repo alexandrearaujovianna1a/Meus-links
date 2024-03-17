@@ -59,5 +59,10 @@ color: #fff;
         border-radius: 12px;
         font-weight: 700;
         FONT size: 14PX;
-        
+        line-height 21px;
     }
+
+    div a:hover {
+        background-color: rgb(57, 204, 101);
+        color: black;
+        transition: 0,7s;}
